@@ -1,2 +1,2 @@
 
-print("Hello world from GDA")
+print("Hello world from GDANSK")
