@@ -1,2 +1,2 @@
 
-print("Hello world from GD")
+print("Hello world from GDA")
